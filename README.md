@@ -25,16 +25,10 @@ Project Files
 
   Assessments.xlsx:
     Excel file containing participant IDs and Block Design scores for cognitive assessment.
-
+    
 Data Files
 
-Due to size constraints on GitHub, the large data files used in this project are packaged into a ZIP archive. To access these files:
-
-  Download the data_files.zip from the repository.
-
-  Extract the contents using your preferred archive tool.
-
-   Follow the instructions in the README to load and process the data.
+Due to file size limitations on GitHub, only one representative data file is provided in this repository. This sample file (named, C009_SimpleStew_MovementData.csv) is intended to illustrate the data structure and format used in the project. The full dataset, which contains all relevant records, is not included here. If you need access to the complete dataset, please refer to the contact information in the Contact section or follow the instructions provided in this README.
 
   Aim.pptx:
     PowerPoint presentation outlining the project’s goals, background, assignment details, and points breakdown.
