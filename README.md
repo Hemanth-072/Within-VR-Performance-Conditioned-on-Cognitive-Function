@@ -26,8 +26,15 @@ Project Files
   Assessments.xlsx:
     Excel file containing participant IDs and Block Design scores for cognitive assessment.
 
-  Data Folder:
-    CSV files with performance data from the VR simulation. These files provide the session times (or “Times”) used to compute total recipe completion times for each participant.
+Data Files
+
+Due to size constraints on GitHub, the large data files used in this project are packaged into a ZIP archive. To access these files:
+
+  Download the data_files.zip from the repository.
+
+  Extract the contents using your preferred archive tool.
+
+   Follow the instructions in the README to load and process the data.
 
   Aim.pptx:
     PowerPoint presentation outlining the project’s goals, background, assignment details, and points breakdown.
